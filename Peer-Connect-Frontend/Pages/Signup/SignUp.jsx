@@ -52,7 +52,7 @@ const Signup = () => {
       console.error('Error submitting form:', error);
     }
   };
-  
+    
   return (
     <div className="signup-container">
    
